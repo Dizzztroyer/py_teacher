@@ -1,0 +1,8 @@
+aiogram==3.13.1
+apscheduler==3.10.4
+aiohttp==3.9.5
+pydantic-settings==2.3.4
+pydantic==2.7.4
+sqlalchemy==2.0.31
+aiosqlite==0.20.0
+pypdf==4.3.1
