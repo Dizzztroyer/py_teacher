@@ -103,7 +103,7 @@ cp .env.example .env
 BOT_TOKEN=1234567890:AAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # ID чата (личный ID или отрицательный ID группы)
-GROUP_CHAT_ID=455763669
+GROUP_CHAT_ID=4*******9
 
 # NVIDIA NIM — ключ с build.nvidia.com → API Keys
 NVIDIA_API_KEY=nvapi-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
